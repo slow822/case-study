@@ -22,12 +22,12 @@ B) Nikola Tesla
 C) Benjamin Franklin
 D) Alexander Graham Bell
 Đáp án đúng: A) Thomas Edison
-Câu hỏi: Mùa trong năm có 30 ngày là mùa nào?
+Câu hỏi: Mùa nào nóng nhất?
 A) Mùa Xuân
 B) Mùa Hạ
 C) Mùa Thu
 D) Mùa Đông
-Đáp án đúng: C) Mùa Thu
+Đáp án đúng: B) Mùa Hạ
 Câu hỏi: Ai là người sáng lập Facebook?
 A) Bill Gates
 B) Mark Zuckerberg
