@@ -533,10 +533,11 @@ def question(a):
         print('----------------------------------------------------------------')
     print('-----------------------     tiep tuc     -----------------------')
     
-print('10 câu, mỗi câu 4 đáp án /n dung se dc cong')
+print('10 câu, mỗi câu 4 đáp án, đúng sẽ được cộng')
+print('bạn có 2 quyền trợ giúp')
 while True:
     if count == 10:
-        print('ban co',diem,'/10')  
+        print('kết quả',diem,'điểm')  
         break   
     real = ' '.join(cauhoi)  
     strhelp = ' '.join(help)
